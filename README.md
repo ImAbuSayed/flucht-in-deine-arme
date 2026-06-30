@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/flucht-in-deine-arme/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Flucht in deine Arme](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/flucht-in-deine-arme/) |
+| **Get License** | [Get License For Flucht in deine Arme](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/flucht-in-deine-arme/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Mitternacht, ich fahr durch die City, die Straßen sind leer
+> Such nur nach dir, denn ich brauche dich jeden Tag mehr
+> Flucht in deine Arme, der Beat in der Brust schlägt im Takt
+> Lass uns verschwinden, mein Baby, uns gehört diese Nacht
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
