@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Flucht in deine Arme
+
+This log tracks the cryptographic history and versioning for the song **Flucht in deine Arme** (flucht-in-deine-arme).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-30T22:31:44.387730 | `v1` | `cabccfc4241ee5264c620a69beedb1809e71ad0c821c70cd23eaf0ad43fb5101` | `9f40d31c724035340d4788644b7c6032eed0a332916b368b486399d239800b2d` | `2026-06-30_flucht-in-deine-arme-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

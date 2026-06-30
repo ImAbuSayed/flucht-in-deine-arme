@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/flucht-in-deine-arme/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Flucht in deine Arme](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/flucht-in-deine-arme/) |
+| **Get License** | [Music Rights & Licensing for Flucht in deine Arme](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/flucht-in-deine-arme/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `cabccfc4241ee5264c620a69beedb1809e71ad0c821c70cd23eaf0ad43fb5101` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
